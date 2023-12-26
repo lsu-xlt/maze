@@ -1,0 +1,15 @@
+﻿  dialog.cpp
+  initMaze.cpp
+C:\Users\向林腾\source\repos\maze\maze\initMaze.cpp(92,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\向林腾\source\repos\maze\maze\initMaze.cpp(151,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\向林腾\source\repos\maze\maze\initMaze.cpp(151,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\向林腾\source\repos\maze\maze\initMaze.cpp(227,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  maze.cpp
+C:\Users\向林腾\source\repos\maze\maze\maze.cpp(191,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\向林腾\source\repos\maze\maze\maze.cpp(289,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\向林腾\source\repos\maze\maze\maze.cpp(322,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  mazeDecoration.cpp
+C:\Users\向林腾\source\repos\maze\maze\mazeDecoration.cpp(318,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+C:\Users\向林腾\source\repos\maze\maze\initMaze.cpp(219): warning C4172: 返回局部变量或临时变量的地址: route
+  maze.vcxproj -> C:\Users\向林腾\source\repos\maze\x64\Debug\maze.exe
