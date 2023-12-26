@@ -146,7 +146,6 @@ void update()
 	}
 	if ((GetAsyncKeyState('J') & 0x8001))
 	{
-		//printf("进来了");
 		 // 记录开始时间
 		clock_t start_time = clock();
 		bfsMark(bfs(newArray,player.i,player.j), player.i, player.j, mazeStartX, mazeStartY);
