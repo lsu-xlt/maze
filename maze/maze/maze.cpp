@@ -248,6 +248,18 @@ void bgm() {
 				musicFilePath = L"../resource/music/bgmy.mp3";
 				playBackgroundMusic(musicFilePath);
 				break;
+			case 2:
+				musicFilePath = L"../resource/music/bgm3.mp3";
+				playBackgroundMusic(musicFilePath);
+				break;
+			case 3:
+				musicFilePath = L"../resource/music/bgm4.mp3";
+				playBackgroundMusic(musicFilePath);
+				break;
+			case 4:
+				musicFilePath = L"../resource/music/bgm5.mp3";
+				playBackgroundMusic(musicFilePath);
+				break;
 			}
 		}
 		Sleep(1000); // 每秒检查一次条件
